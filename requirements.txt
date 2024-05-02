@@ -1,0 +1,12 @@
+rethinkdb==2.4.9
+stopit==1.1.2
+psutil==5.9.5
+numpy
+Monsoon
+git+https://github.com/pybluez/pybluez.git#egg=pybluez
+
+# pip install stopit
+# pip install rethinkdb
+# pip install psutil
+# sudo apt-get install -y libbluetooth-dev
+# pip install pybluez
